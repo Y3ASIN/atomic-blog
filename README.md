@@ -1,1 +1,1 @@
-The Atomic Blog - use of contextAPI
+The Atomic Blog - use of contextAPI and memoize
